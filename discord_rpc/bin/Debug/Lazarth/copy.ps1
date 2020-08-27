@@ -1,0 +1,1 @@
+cp ..\discord_rpc.exe ./Lazarth.exe
